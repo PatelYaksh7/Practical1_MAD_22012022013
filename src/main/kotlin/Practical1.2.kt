@@ -4,7 +4,7 @@ fun main(){
     var new_value : Double = int_val.toDouble()
     println("Integerr Value: $int_val \nInteger To Double: $new_value")
 
-    var string : String = "10"
+    var string : String = "11"
     var new_string : Int = string.toInt()
     var dou_string : Double = string.toDouble()
 
