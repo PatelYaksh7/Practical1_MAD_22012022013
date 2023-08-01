@@ -1,0 +1,14 @@
+fun main(){
+    println("22012022013")
+    var int_val : Int = 10
+    var new_value : Double = int_val.toDouble()
+    println("Integerr Value: $int_val \nInteger To Double: $new_value")
+
+    var string : String = "10"
+    var new_string : Int = string.toInt()
+    var dou_string : Double = string.toDouble()
+
+    println("String Value: $string \nString To Integer Value: $new_string \nString To Double Value: $dou_string")
+
+
+}
